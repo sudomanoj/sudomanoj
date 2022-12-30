@@ -6,7 +6,7 @@
   <h3>Hey, I'm Manoj Paudel</h3>
   <p>I am Full Stack Web Developer, Webapp Pentester,
   </P> 
-  <p>Network Security Researcher as well as part time Bug Bounty Hunter from Nepal 🇳🇵</p>
+  <p>Network Security Researcher from Nepal 🇳🇵</p>
 </div>
 
 <!----------------------------------- Language and Tools Section ------------------------------------>
