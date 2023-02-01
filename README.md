@@ -55,7 +55,7 @@
    <a href="https://twitter.com/sudomanoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudomanoj" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/manoj-paudel-852991220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
   <a href="https://t.me/sudomanoj">
-  <img align="left" alt="Rubin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Manoj's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 </p>
 
