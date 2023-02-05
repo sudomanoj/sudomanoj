@@ -50,7 +50,7 @@
   
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+<h2><i>Let's Get Connected</i></h2>
 <p align="left" >
    <a href="https://twitter.com/sudomanoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudomanoj" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/manoj-paudel-852991220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
@@ -61,8 +61,8 @@
 
 
 
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-<h2><i>My GitHub Stats</i></h2>
+<!----------------------------------- GitHub Status Section ------------------------------------>
+<h2><i>My GitHub Status</i></h2>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymanoj&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="onlymanoj" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlymanoj&layout=compact&border_radius=0&theme=dark" alt="onlymanoj" height="139" />
