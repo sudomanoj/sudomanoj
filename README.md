@@ -19,11 +19,11 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
 </p>
-<h3>Frontend Framework and Lib</h3>
+<h3>Frontend Framework and Library</h3>
 <p>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </p>
-<h3>Backend Framework and Lib</h3>
+<h3>Backend Framework and Library</h3>
 <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
 </p>
