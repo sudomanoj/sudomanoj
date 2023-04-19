@@ -80,7 +80,8 @@
 </p>
 
 <br/><br/>
-[![@sudomanoj's Holopin board](https://holopin.me/sudomanoj)](https://holopin.io/@onlymanoj)
+
+[![An image of @onlymanoj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/onlymanoj)](https://holopin.io/@onlymanoj)
 
 
 <!---
