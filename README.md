@@ -80,7 +80,7 @@
 </p>
 
 <br/><br/>
-[![@sudomanoj's Holopin board](https://holopin.me/onlymanoj)](https://holopin.io/@onlymanoj)
+[![@sudomanoj's Holopin board](https://holopin.me/sudomanoj)](https://holopin.io/@onlymanoj)
 
 
 <!---
