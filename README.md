@@ -74,13 +74,13 @@
     <a href="https://github.com/onlymanoj">
         <img src="https://komarev.com/ghpvc/?username=geekyshow1&label=Profile%20views&color=0e75b6&style=flat" alt="onlymanoj" />
     </a>
-    <a href="https://github.com/onlymanoj?tab=followers">
-        <img src="https://img.shields.io/github/followers/onlymanoj?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/sudomanoj?tab=followers">
+        <img src="https://img.shields.io/github/followers/sudomanoj?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 
 <br/><br/>
-[![@onlymanoj's Holopin board](https://holopin.me/onlymanoj)](https://holopin.io/@onlymanoj)
+[![@sudomanoj's Holopin board](https://holopin.me/onlymanoj)](https://holopin.io/@onlymanoj)
 
 
 <!---
