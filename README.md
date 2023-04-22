@@ -1,7 +1,7 @@
 
 <div>
   <a href="https://github.com/onlymanoj?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/onlymanoj?label=Followers&style=social" alt="followers-count">
+     <img align="right" src="https://img.shields.io/github/followers/sudomanoj?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hey, I'm Manoj Paudel</h3>
   <p>I am Full Stack Web Developer, Webapp Pentester,
@@ -64,14 +64,14 @@
 <!----------------------------------- GitHub Status Section ------------------------------------>
 <h2><i>My GitHub Status</i></h2>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymanoj&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="onlymanoj" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlymanoj&layout=compact&border_radius=0&theme=dark" alt="onlymanoj" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudomanoj&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sudomanoj" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudomanoj&layout=compact&border_radius=0&theme=dark" alt="sudomanoj" height="139" />
 </p>
 <br/>
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/onlymanoj">
+    <a href="https://github.com/sudomanoj">
         <img src="https://komarev.com/ghpvc/?username=geekyshow1&label=Profile%20views&color=0e75b6&style=flat" alt="onlymanoj" />
     </a>
     <a href="https://github.com/sudomanoj?tab=followers">
