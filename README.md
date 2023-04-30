@@ -26,6 +26,7 @@
 <h3>Backend Framework and Library</h3>
 <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
+  <img src="https://img.shields.io/badge/Django%20REST%20framework-0C4B33?style=for-the-badge&logo=django&logoColor=green" alt="Django REST framework" />
 </p>
 <h3>Database</h3>
 <p>
