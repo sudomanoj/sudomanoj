@@ -4,9 +4,9 @@
      <img align="right" src="https://img.shields.io/github/followers/sudomanoj?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hey, I'm Manoj Paudel</h3>
-  <p>I am a Backend Developer, Webapp Pentester,
+  <p>I am a Backend Developer
   </P> 
-  <p>Network Security Researcher from Nepal 🇳🇵</p>
+  <p> from Nepal 🇳🇵</p>
 </div>
 
 <!----------------------------------- Language and Tools Section ------------------------------------>
