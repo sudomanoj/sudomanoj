@@ -74,7 +74,7 @@
 
 <p align="left">
     <a href="https://github.com/sudomanoj">
-        <img src="https://komarev.com/ghpvc/?username=geekyshow1&label=Profile%20views&color=0e75b6&style=flat" alt="onlymanoj" />
+        <img src="https://komarev.com/ghpvc/?username=sudomanoj&label=Profile%20views&color=0e75b6&style=flat" alt="sudomanoj" />
     </a>
     <a href="https://github.com/sudomanoj?tab=followers">
         <img src="https://img.shields.io/github/followers/sudomanoj?label=Followers&style=social" alt="followers-count">
